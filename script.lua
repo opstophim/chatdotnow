@@ -4,7 +4,7 @@ local BLACKLIST = {"fuck", "f*ck", "frick", "porn", "p*rn", "pussy", "loser", "h
 
 local VERIFIED_USERS = {"mia","chat"}
 
-local API_URL = "https://script.google.com/macros/s/AKfycbxgeZ7EvFUbahRmGra5_-MaN3pTkRMbc5Mz6B4LtCUM2RcCZkskaXpzr8bySq2TB3wd/exec"
+local API_URL = "https://script.google.com/macros/s/AKfycbyNlzCEfYIA_abU0lrLLKbtUpnRVpV37WZwiJ4qxeKpN4D1Pf9ByRakAjgYmyNIeGR7/exec"
 local MAX_MESSAGES = 10
 
 local MIN_USERNAME_LENGTH = 4
