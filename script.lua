@@ -2,10 +2,10 @@
 
 local BLACKLIST = {"fuck", "f*ck", "frick", "porn", "p*rn", "pussy", "loser", "h*tler", "hitler", "ni**er", "niger", "nigger", "nig*er", "ni*ger", "gay", "rape", "fucking", "f*cking", "fricking", "fuckin", "f*ckin", "raping", "r*pe", "r*ping", "hate", "penis", "nigga", "n*gga", "ni**a", "ni*ga", "nig*a", "niga", "n*ga"}
 
-local VERIFIED_USERS = {"mia"}
+local VERIFIED_USERS = {"mia","chat"}
 
 local API_URL = "https://script.google.com/macros/s/AKfycbxgeZ7EvFUbahRmGra5_-MaN3pTkRMbc5Mz6B4LtCUM2RcCZkskaXpzr8bySq2TB3wd/exec"
-local MAX_MESSAGES = 7
+local MAX_MESSAGES = 10
 
 local MIN_USERNAME_LENGTH = 4
 local MAX_USERNAME_LENGTH = 16
