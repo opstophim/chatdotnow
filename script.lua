@@ -2,9 +2,9 @@
 
 local BLACKLIST = {"fuck", "f*ck", "frick", "porn", "p*rn", "pussy", "loser", "h*tler", "hitler", "ni**er", "niger", "nigger", "nig*er", "ni*ger", "gay", "rape", "fucking", "f*cking", "fricking", "fuckin", "f*ckin", "raping", "r*pe", "r*ping", "hate", "penis", "nigga", "n*gga", "ni**a", "ni*ga", "nig*a", "niga", "n*ga"}
 
-local VERIFIED_USERS = {"pixelfacts"}
+local VERIFIED_USERS = {"mia"}
 
-local API_URL = "https://script.google.com/macros/s/AKfycbzRpETjssJQPY1bL96zgoiIUxw78n5yMOfk31ntpOv56cpAcaF_uh6J2uPRmhDb91M0/exec"
+local API_URL = "https://script.google.com/macros/s/AKfycbxgeZ7EvFUbahRmGra5_-MaN3pTkRMbc5Mz6B4LtCUM2RcCZkskaXpzr8bySq2TB3wd/exec"
 local MAX_MESSAGES = 7
 
 local MIN_USERNAME_LENGTH = 4
